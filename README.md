@@ -59,6 +59,13 @@ The solutions to all the HackerRank SQL Track Challenges on MySQL Environment.
 |8.|[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees)|[]()|
 |9.|[Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2)|[]()|
 |10.|[Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13)|[]()|
+|11.|[Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14)|[]()|
+|12.|[Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15)|[]()|
+|13.|[Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16)|[]()|
+|14.|[Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17)|[]()|
+|15.|[Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18)|[]()|
+|16.|[Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19)|[]()|
+|17.|[Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20)|[]()|
 
 ## Basic Join
 
