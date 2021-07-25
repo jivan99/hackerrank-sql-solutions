@@ -37,50 +37,54 @@ The solutions to all the HackerRank SQL Track Challenges on MySQL Environment.
 
 |S.N.|Challenge |Solution|
 |----|----------|--------|
-|1.|[The PADS](https://www.hackerrank.com/challenges/the-pads)||
-|2.|[Occupations](https://www.hackerrank.com/challenges/occupations)||
-|3.|[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1)||
-|4.|[New Companies](https://www.hackerrank.com/challenges/the-company)||
+|1.|[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle)|[]()|
+|2.|[The PADS](https://www.hackerrank.com/challenges/the-pads)|[]()|
+|3.|[Occupations](https://www.hackerrank.com/challenges/occupations)|[]()|
+|4.|[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1)|[]()|
+|5.|[New Companies](https://www.hackerrank.com/challenges/the-company)|[]()|
 
 ## Aggregation
 
 |S.N.|Challenge |Solution|
 |----|----------|--------|
-|1.|[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum)||
-|2.|[Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function)||
-|3.|[Average Population](https://www.hackerrank.com/challenges/average-population)||
-|4.|[Stand out from the crowd](https://www.hackerrank.com/skills-verification)||
-|5.|[Japan Population](https://www.hackerrank.com/challenges/japan-population)||
-|6.|[Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference)||
-|7.|[The Blunder](https://www.hackerrank.com/challenges/the-blunder)||
-|8.|[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees)||
-|9.|[Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2)||
-|10.|[Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13)||
+|1.|[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function)|[]()|
+|2.|[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum)|[]()|
+|3.|[Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function)|[]()|
+|4.|[Average Population](https://www.hackerrank.com/challenges/average-population)|[]()|
+|5.|[Japan Population](https://www.hackerrank.com/challenges/japan-population)|[]()|
+|6.|[Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference)|[]()|
+|7.|[The Blunder](https://www.hackerrank.com/challenges/the-blunder)|[]()|
+|8.|[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees)|[]()|
+|9.|[Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2)|[]()|
+|10.|[Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13)|[]()|
 
 ## Basic Join
 
 |S.N.|Challenge |Solution|
 |----|----------|--------|
-|1.|[African Cities](https://www.hackerrank.com/challenges/african-cities)||
-|2.|[Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent)||
-|3.|[The Report](https://www.hackerrank.com/challenges/the-report)||
-|4.|[Top Competitors](https://www.hackerrank.com/challenges/full-score)||
-|5.|[Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands)||
-|6.|[Challenges](https://www.hackerrank.com/challenges/challenges)||
-|7.|[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard)||
+|1.|[Population Census ](https://www.hackerrank.com/challenges/asian-population)|[]()|
+|2.|[African Cities](https://www.hackerrank.com/challenges/african-cities)|[]()|
+|3.|[Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent)|[]()|
+|4.|[The Report](https://www.hackerrank.com/challenges/the-report)|[]()|
+|5.|[Top Competitors](https://www.hackerrank.com/challenges/full-score)|[]()|
+|6.|[Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands)|[]()|
+|7.|[Challenges](https://www.hackerrank.com/challenges/challenges)|[]()|
+|8.|[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard)|[]()|
 
 ## Advanced Join
 
 |S.N.|Challenge |Solution|
 |----|----------|--------|
-|1.|[Placements](https://www.hackerrank.com/challenges/placements)||
-|2.|[Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs)||
-|3.|[Interviews](https://www.hackerrank.com/challenges/interviews)||
-|4.|[15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql)||
+|1.|[SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects)|[]()|
+|2.|[Placements](https://www.hackerrank.com/challenges/placements)|[]()|
+|3.|[Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs)|[]()|
+|4.|[Interviews](https://www.hackerrank.com/challenges/interviews)|[]()|
+|5.|[15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql)|[]()|
 
 ## Alternative Queries
 
 |S.N.|Challenge |Solution|
 |----|----------|--------|
-|1.|[Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2)||
-|2.|[Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers)||
+|1.|[Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1)|[]()|
+|2.|[Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2)|[]()|
+|3.|[Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers)|[]()|
