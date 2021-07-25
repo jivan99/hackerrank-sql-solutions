@@ -29,10 +29,12 @@ The solutions to all the HackerRank SQL Track Challenges on MySQL Environment.
 |13.|[Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8)|[Solution](/01%20Basic%20Select/13_weather_observation_station_8.sql)|
 |14.|[Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9)|[Solution](/01%20Basic%20Select/14_weather_observation_station_9.sql)|
 |15.|[Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10)|[Solution](/01%20Basic%20Select/15_weather_observation_station_10.sql)|
-|16.|[Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12)|[Solution](/01%20Basic%20Select/16_weather_observation_station_12.sql)|
-|17.|[Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks)|[Solution](/01%20Basic%20Select/17_higher_than_75_marks.sql)|
-|18.|[Employee Names](https://www.hackerrank.com/challenges/name-of-employees)|[Solution](/01%20Basic%20Select/18_employee_names.sql)|
-|19.|[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees)|[Solution](/01%20Basic%20Select/19_employee_salaries.sql)|
+|16.|[Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11)|[Solution](/01%20Basic%20Select/16_weather_observation_station_11.sql)|
+|17.|[Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12)|[Solution](/01%20Basic%20Select/17_weather_observation_station_12.sql)|
+|18.|[Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks)|[Solution](/01%20Basic%20Select/18_higher_than_75_marks.sql)|
+|19.|[Employee Names](https://www.hackerrank.com/challenges/name-of-employees)|[Solution](/01%20Basic%20Select/19_employee_names.sql)|
+|20.|[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees)|[Solution](/01%20Basic%20Select/20_employee_salaries.sql)|
+
 ## Advanced Select
 
 |S.N.|Challenge |Solution|
